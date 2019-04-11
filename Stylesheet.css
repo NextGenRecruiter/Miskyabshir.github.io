@@ -1,4 +1,4 @@
-body {
-    background-color: rgb(29, 16, 143);
+body { background-color: powderblue !important; } /* Adding !important forces the browser to overwrite the default style applied by Bootstrap */
 
-}
+
+
